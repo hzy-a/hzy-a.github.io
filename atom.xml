@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>B-I-o-g</title>
+  <title>Blog</title>
   
   <subtitle>生活明朗,万物可爱.</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://bk.hhzyi.com/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2022-10-24T15:58:42.674Z</updated>
-  <id>http://example.com/</id>
+  <link href="http://bk.hhzyi.com/"/>
+  <updated>2022-10-25T11:06:02.698Z</updated>
+  <id>http://bk.hhzyi.com/</id>
   
   <author>
     <name>hzy</name>
@@ -18,17 +18,17 @@
   
   <entry>
     <title>QQ云端登录教程</title>
-    <link href="http://example.com/posts/b2760a56.html"/>
-    <id>http://example.com/posts/b2760a56.html</id>
+    <link href="http://bk.hhzyi.com/posts/b2760a56.html"/>
+    <id>http://bk.hhzyi.com/posts/b2760a56.html</id>
     <published>2022-10-24T15:54:24.000Z</published>
-    <updated>2022-10-24T15:58:42.674Z</updated>
+    <updated>2022-10-25T11:06:02.698Z</updated>
     
-    <content type="html"><![CDATA[<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">登录教程:</span><br><span class="line">1.安卓下载TimQQ和爱加速(苹果不用下载TimQQ)</span><br><span class="line">2.爱加速线路选择广州(不要清理爱加速后台挂着) TimQQ登录你的QQ</span><br><span class="line">3.用TimQQ在群里发送申请登录</span><br><span class="line">4.扫描二维码进行登录</span><br><span class="line">密码登录教程:给机器人发送密码登录密码</span><br><span class="line">比如密码登录123456</span><br><span class="line">然后按照机器人给的操作进行操作即可</span><br></pre></td></tr></table></figure><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">爱加速不能用了看着视频wp.hhzyi.com/f.php?h=0skVxGEs&amp;p=1</span><br></pre></td></tr></table></figure>]]></content>
+    <content type="html"><![CDATA[<p>登录教程:<br>1.安卓下载TimQQ和爱加速(苹果不用下载TimQQ)<br>2.爱加速线路选择广州(不要清理爱加速后台挂着) TimQQ登录你的QQ<br>3.用TimQQ在群里发送申请登录<br>4.扫描二维码进行登录<br>密码登录教程:给机器人发送密码登录密码<br>比如密码登录123456<br>然后按照机器人给的操作进行操作即可</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">爱加速不能用了看这视频</span><br><span class="line">wp.hhzyi.com/f.php?h=0skVxGEs&amp;p=1</span><br><span class="line">现在端口改了需要的联系3109860881</span><br><span class="line">视频软件下载，直接复制下面链接即可</span><br><span class="line">http://u3v.cn/6cIwFb</span><br></pre></td></tr></table></figure>]]></content>
     
     
       
       
-    <summary type="html">&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=</summary>
+    <summary type="html">&lt;p&gt;登录教程:&lt;br&gt;1.安卓下载TimQQ和爱加速(苹果不用下载TimQQ)&lt;br&gt;2.爱加速线路选择广州(不要清理爱加速后台挂着) TimQQ登录你的QQ&lt;br&gt;3.用TimQQ在群里发送申请登录&lt;br&gt;4.扫描二维码进行登录&lt;br&gt;密码登录教程:给机器人发送密码登录密码&lt;</summary>
       
     
     
@@ -38,8 +38,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/posts/4a17b156.html"/>
-    <id>http://example.com/posts/4a17b156.html</id>
+    <link href="http://bk.hhzyi.com/posts/4a17b156.html"/>
+    <id>http://bk.hhzyi.com/posts/4a17b156.html</id>
     <published>2022-10-24T13:43:44.034Z</published>
     <updated>2022-10-24T14:08:41.513Z</updated>
     
