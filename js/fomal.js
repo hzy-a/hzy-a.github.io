@@ -2790,11 +2790,11 @@ var now = new Date();
 function createtime() {
   // 当前时间
   now.setTime(now.getTime() + 1000);
-  var start = new Date("08/01/2022 00:00:00"); // 旅行者1号开始计算的时间
+  var start = new Date("03/01/2023 00:00:00"); // 旅行者1号开始计算的时间
   var dis = Math.trunc(23400000000 + ((now - start) / 1000) * 17); // 距离=秒数*速度 记住转换毫秒
   var unit = (dis / 149600000).toFixed(6);  // 天文单位
   // 网站诞生时间
-  var grt = new Date("02/01/2022 00:00:00");
+  var grt = new Date("02/01/2023 00:00:00");
   var days = (now - grt) / 1e3 / 60 / 60 / 24,
     dnum = Math.floor(days),
     hours = (now - grt) / 1e3 / 60 / 60 - 24 * dnum,
@@ -3179,10 +3179,15 @@ if (localStorage.getItem("blogbg") != undefined) {
   setBg(localStorage.getItem("blogbg"));
 } else {
   document.getElementById("defineBg").innerText = `:root{
-    --default-bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/dm14.webp);
-    --darkmode-bg:url(https://lskypro.acozycotage.net/Fomalhaut/img/yuanshen1.webp);
-    --mobileday-bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/snow.webp);
-    --mobilenight-bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/mb8.webp);
+    --default-bg: url(https://cdn.staticaly.com/gh/hzy-a/picx-images-hosting@master/20230521/hzyNTIxNjU3NTgyOTc2MzY5MzU3Nl8xNjY2NDExNDkyOTk2_22.14c5w6qfcwyk.webp
+);
+    --darkmode-bg:url(https://cdn.staticaly.com/gh/hzy-a/picx-images-hosting@master/20230521/hzycfaf190094ab74f05e67acf3cda59571a5541a08d2c4b0893a281990f529eaf0.0.30lbzi35nqe0.webp
+);
+    --mobileday-bg: url(https://cdn.staticaly.com/gh/hzy-a/picx-images-hosting@master/20230521/hzyc8a46e1c867b76fca1b4afcdfcc42acad3598d06489c37e1e6d9c5a1943f24b7.0.6wfw95cwygk0.webp
+);
+    --mobilenight-bg: url(https://cdn.staticaly.com/gh/hzy-a/picx-images-hosting@master/20230521/hzymmexport1684941836888.wcug3sje9lc.webp
+
+);
   }`;
 }
 // 切换背景主函数
