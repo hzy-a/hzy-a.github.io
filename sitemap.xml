@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://bk.hhzyi.com/social/fcircle/index.html</loc>
+    
+    <lastmod>2023-05-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://bk.hhzyi.com/box/nav/index.html</loc>
+    
+    <lastmod>2023-05-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://bk.hhzyi.com/personal/bb/index.html</loc>
     
     <lastmod>2023-05-28</lastmod>
@@ -39,15 +57,6 @@
   
   <url>
     <loc>https://bk.hhzyi.com/zaobao/index.html</loc>
-    
-    <lastmod>2023-05-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://bk.hhzyi.com/social/fcircle/index.html</loc>
     
     <lastmod>2023-05-26</lastmod>
     
@@ -201,15 +210,6 @@
   
   <url>
     <loc>https://bk.hhzyi.com/categories/index.html</loc>
-    
-    <lastmod>2023-05-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://bk.hhzyi.com/box/nav/index.html</loc>
     
     <lastmod>2023-05-26</lastmod>
     
