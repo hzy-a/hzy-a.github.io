@@ -9515,6 +9515,16 @@ hr:before {
   transition: all 0.3s ease-in-out;
 }
 
+
+
+svg.icon {
+   width: 1em; height: 1em;
+   /* width和height定义图标的默认宽度和高度*/
+   vertical-align: -0.15em;
+   fill: currentColor;
+   overflow: hidden;
+}
+
 .search-dialog {
   position: fixed;
   top: 10%;
