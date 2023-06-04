@@ -3183,7 +3183,7 @@ if (localStorage.getItem("blogbg") != undefined) {
 );
     --darkmode-bg:url(https://cdn.staticaly.com/gh/hzy-a/picx-images-hosting@master/20230521/hzycfaf190094ab74f05e67acf3cda59571a5541a08d2c4b0893a281990f529eaf0.0.30lbzi35nqe0.webp
 );
-    --mobileday-bg: url(https://cdn.staticaly.com/gh/hzy-a/picx-images-hosting@master/20230521/hzyc8a46e1c867b76fca1b4afcdfcc42acad3598d06489c37e1e6d9c5a1943f24b7.0.6wfw95cwygk0.webp
+    --mobileday-bg: url(https://cdn.staticaly.com/gh/hzy-a/picx-images-hosting@master/20230521/hzy1677165678584.6wo2gqizsew0.webp
 );
     --mobilenight-bg: url(https://cdn.staticaly.com/gh/hzy-a/picx-images-hosting@master/20230521/hzymmexport1684941836888.wcug3sje9lc.webp
 
