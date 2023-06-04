@@ -2809,8 +2809,8 @@ function createtime() {
   let currentTimeHtml = "";
   (currentTimeHtml =
     hnum < 18 && hnum >= 9
-      ? `<img class='boardsign' src='https://pic1.imgdb.cn/item/646991b6e03e90d87411b94f.jpg' title='----------'><br> <div style="font-size:13px;font-weight:bold">本站居然运行了 ${dnum} 天 ${hnum} 小时 ${mnum} 分 ${snum} 秒 <i id="heartbeat" class='fas fa-heartbeat'></i> <br> 旅行者 1 号当前距离地球 ${dis} 千米，约为 ${unit} 个天文单位 🚀</div>`
-      : `<img class='boardsign' src='https://pic1.imgdb.cn/item/6468f6c7e03e90d8747f1d18.jpg' title='怀恋是因为回不去'><br> <div style="font-size:13px;font-weight:bold">本站居然运行了 ${dnum} 天 ${hnum} 小时 ${mnum} 分 ${snum} 秒 <i id="heartbeat" class='fas fa-heartbeat'></i> <br> 旅行者 1 号当前距离地球 ${dis} 千米，约为 ${unit} 个天文单位 🚀</div>`),
+      ? ` <div style="font-size:13px;font-weight:bold">本站居然运行了 ${dnum} 天 ${hnum} 小时 ${mnum} 分 ${snum} 秒 <i id="heartbeat" class='fas fa-heartbeat'></i> <br> 旅行者 1 号当前距离地球 ${dis} 千米，约为 ${unit} 个天文单位 🚀</div>`
+      : ` <div style="font-size:13px;font-weight:bold">本站居然运行了 ${dnum} 天 ${hnum} 小时 ${mnum} 分 ${snum} 秒 <i id="heartbeat" class='fas fa-heartbeat'></i> <br> 旅行者 1 号当前距离地球 ${dis} 千米，约为 ${unit} 个天文单位 🚀</div>`),
     document.getElementById("workboard") &&
     (document.getElementById("workboard").innerHTML = currentTimeHtml);
 }
@@ -3183,10 +3183,9 @@ if (localStorage.getItem("blogbg") != undefined) {
 );
     --darkmode-bg:url(https://cdn.staticaly.com/gh/hzy-a/picx-images-hosting@master/20230521/hzycfaf190094ab74f05e67acf3cda59571a5541a08d2c4b0893a281990f529eaf0.0.30lbzi35nqe0.webp
 );
-    --mobileday-bg: url(https://cdn.staticaly.com/gh/hzy-a/picx-images-hosting@master/20230521/hzy1677165678584.6wo2gqizsew0.webp
+    --mobileday-bg: url(https://cdn.staticaly.com/gh/hzy-a/picx-images-hosting@master/20230521/hzymmexport1685887918464.21x7befljpfk.webp
 );
-    --mobilenight-bg: url(https://cdn.staticaly.com/gh/hzy-a/picx-images-hosting@master/20230521/hzymmexport1684941836888.wcug3sje9lc.webp
-
+    --mobilenight-bg: url(https://cdn.staticaly.com/gh/hzy-a/picx-images-hosting@master/20230521/hzymmexport1685887912006.1fs4xptgncow.webp
 );
   }`;
 }
